@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pwilliamsj32
-- 👀 I’m interested in Data Analytics, Sales Engineering, Python
+- 👀 I’m interested in Data Analytics,SQL, Python
 - 🌱 I’m currently learning Data Analytics,SQL
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me at pwilliamsj32@gmail.com
